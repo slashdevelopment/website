@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Slash, Inc. Website',
     description: 'Modern statically generated website built using Next.js, licensed under BSD-3-Clause.',
-    image: ''
+    image: '../public/images/1080x360.jfif'
   }
 
   return (

@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'Slash, Inc. Website',
-    description: 'Slash, Inc. is a developer and distributor of video games.',
+    description: 'Modern statically generated website built using Next.js, licensed under BSD-3-Clause.',
     image: ''
   }
 

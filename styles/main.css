@@ -66,7 +66,7 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
   position: relative;
-  left: auto;
+  left: 32px;
 }
 
 ::-webkit-scrollbar {

@@ -36,6 +36,8 @@ h6 {
 h1 {
   font-variation-settings: 'wght' 850;
   background: -webkit-linear-gradient(#7A00FB, #A94FFB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 h2 {
   font-variation-settings: 'wght' 750;

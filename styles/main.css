@@ -62,7 +62,7 @@ img.next-image {
 
 .nav-line .nav-link {
   color: #69778c;
-  text-align: left;
+  margin-right: 15%;
 }
 
 ::-webkit-scrollbar {

@@ -65,7 +65,7 @@ img.next-image {
 
 .nav-line .nav-link {
   color: #69778c;
-  position: relative;
+  position: fixed;
   left: 32px;
 }
 

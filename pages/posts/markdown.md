@@ -6,9 +6,6 @@ tag: web development
 author: Vicvenpet
 ---
 
-<a class="top-link hide" href="#top">↑</a>
-<a name="top"></a>
-
 # Markdown Examples
 
 ## h2 Heading
@@ -100,3 +97,6 @@ export default function Nextra({ Component, pageProps }) {
     and multiple paragraphs.
 
 [^2]: Footnote text.
+
+<a class="top-link hide" href="#top">©</a>
+<a name="top"></a>

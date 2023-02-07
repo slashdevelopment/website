@@ -6,9 +6,6 @@ tag: game update
 author: Vicvenpet
 ---
 
-<a class="top-link hide" href="#top">↑</a>
-<a name="top"></a>
-
 # Pre-Alpha v0.0.1 Update
 
 > - PlayerMovement.cs & CharacterController2D
@@ -23,3 +20,6 @@ author: Vicvenpet
 ## Summary
 
 This update includes the PlayerMovement script and CharacterController2D component, as well as the Main, Menu, and Intro scenes. It also features a basic stage, a CM vcam, and a folders structure. The player animations include Idle, Run, Jump, and there is also an Animation Controller, and a Start Menu.
+
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>

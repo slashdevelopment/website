@@ -1,6 +1,6 @@
 ---
 title: Markdown Examples
-date: 2021/3/19
+date: Outdated
 description: View examples of all possible Markdown options.
 tag: web development
 author: Vicvenpet

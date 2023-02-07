@@ -98,5 +98,5 @@ export default function Nextra({ Component, pageProps }) {
 
 [^2]: Footnote text.
 
-<a class="top-link hide" href="#top">©</a>
-<a name="top"></a>
+<a class="top-link hide" href="#copyright">©</a>
+<a name="copyright"></a>

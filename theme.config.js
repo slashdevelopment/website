@@ -7,7 +7,7 @@ export default {
       <a href="/feed.xml">RSS</a>
       <style jsx>{`
         a {
-          float: left;
+          float: right;
         }
         @media screen and (max-width: 480px) {
           article {

@@ -88,7 +88,12 @@ img.next-image {
   margin:           0 2em 2em 0;
   border-radius:    50%;
   padding:          .25em;
-  width:            1em;
-  height:           1em;
-  background-color: #F8F8F8;
+  width:            2em;
+  height:           2em;
+  background-color: #9b9b9b;
 }
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }

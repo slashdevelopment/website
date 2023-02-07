@@ -6,6 +6,9 @@ tag: web development
 author: Vicvenpet
 ---
 
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
+
 # Markdown Examples
 
 ## h2 Heading

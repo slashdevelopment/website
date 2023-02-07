@@ -2,6 +2,7 @@
 type: posts
 title: Posts
 date: 2023-2-7
+nav_order: 3
 ---
 
 <a class="top-link hide" href="#top">↑</a>

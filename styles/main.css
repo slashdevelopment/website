@@ -77,6 +77,10 @@ img.next-image {
   }
 }
 
+.shp-images {
+  border-radius: 30px;
+}
+
 .top-link {
   transition:       all .25s ease-in-out;
   position:         fixed;

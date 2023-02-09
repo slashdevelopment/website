@@ -38,7 +38,17 @@ h1 {
   background: -webkit-linear-gradient(to right, #7A00FB, #A94FFB);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  animation: rainbow 2s ease-in-out infinite;
+  color:rgb(#0074de);
+  transition: color .2s ease-in-out;
 }
+
+@keyframes rainbow { 
+  0%{background-position:left}
+  50%{background-position:right}
+  100%{background-position:left}
+}
+
 h2 {
   font-variation-settings: 'wght' 750;
 }

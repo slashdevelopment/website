@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="https://portfolio-incslash.vercel.app/">Website Contact</a> • <a href="https://github.com/slashdevelopment">Github Organization</a></b>
+    <b><a href="https://website-incslash.vercel.app/">Website Contact</a> • <a href="https://github.com/slashdevelopment">Github Organization</a></b>
 </p>
 
 <p align="center">
